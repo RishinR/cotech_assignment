@@ -22,7 +22,7 @@ my_project/
 │   ├── models/
 │   │   ├── course_request.py  # Pydantic model for course request validation
 │   ├── utils/
-│   │   ├── config.py  # Loads environment variables
+│   │   ├── helpers.py  # Helper functions
 ├── .env  # Stores API keys (not included in Git)
 ├── requirements.txt  # Dependencies
 ├── README.md  # Project documentation
